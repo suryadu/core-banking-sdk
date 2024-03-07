@@ -1,6 +1,9 @@
 ## Contributing In General
 Our project welcomes external contributions. If you have an itch, please feel
 free to scratch it.
+## This is first change to this file by Surya
+We are planning to contrubute to this SDK for core banking project
+This will help the ISVs
 
 To contribute code or documentation, please submit a **FIXME** [pull request](https://github.com/ibm/repo-template/pulls).
 
@@ -82,3 +85,4 @@ before submitting.
 ## Coding style guidelines
 **FIXME** Optional, but recommended: please share any specific style guidelines you might
 have for your project.
+# test line
