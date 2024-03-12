@@ -9,8 +9,8 @@
 The purpose of this project is to provide a template for new open source repositories.
 # This is 2nd change from Surya for branch experiments
 The core banking platfom's API Layer can benefit from IBM APIConnect
-
 <!-- A more detailed Usage or detailed explaination of the repository here -->
+This is a change that Surya did from VSCode 
 ## Usage
 
 This repository contains some example best practices for open source repositories:
